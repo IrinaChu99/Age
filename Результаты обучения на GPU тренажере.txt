@@ -1,0 +1,34 @@
+Found 5694 validated image filenames.
+Found 1897 validated image filenames.
+
+Downloading data from https://github.com/keras-team/keras-applications/releases/download/resnet/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
+
+<class 'tensorflow.python.keras.engine.sequential.Sequential'>
+Train for 178 steps, validate for 60 steps
+Epoch 1/12
+178/178 - 421s - loss: 208.9769 - mae: 10.8344 - val_loss: 327.1894 - val_mae: 13.3995
+Epoch 2/12
+178/178 - 38s - loss: 104.0528 - mae: 7.7540 - val_loss: 658.8887 - val_mae: 20.7040
+Epoch 3/12
+178/178 - 38s - loss: 69.4754 - mae: 6.3608 - val_loss: 422.0467 - val_mae: 15.4952
+Epoch 4/12
+178/178 - 38s - loss: 45.7857 - mae: 5.1881 - val_loss: 340.3829 - val_mae: 13.7740
+Epoch 5/12
+178/178 - 38s - loss: 31.1420 - mae: 4.3227 - val_loss: 112.1560 - val_mae: 8.0931
+Epoch 6/12
+178/178 - 38s - loss: 22.1978 - mae: 3.6250 - val_loss: 86.4600 - val_mae: 6.9523
+Epoch 7/12
+178/178 - 38s - loss: 16.8470 - mae: 3.1721 - val_loss: 76.3670 - val_mae: 6.6322
+Epoch 8/12
+178/178 - 38s - loss: 12.7994 - mae: 2.7430 - val_loss: 87.6803 - val_mae: 6.9264
+Epoch 9/12
+178/178 - 38s - loss: 10.1586 - mae: 2.4432 - val_loss: 80.3101 - val_mae: 6.7011
+Epoch 10/12
+178/178 - 38s - loss: 9.2309 - mae: 2.3315 - val_loss: 106.9482 - val_mae: 7.6560
+Epoch 11/12
+178/178 - 38s - loss: 8.0554 - mae: 2.1623 - val_loss: 72.0446 - val_mae: 6.2759
+Epoch 12/12
+178/178 - 39s - loss: 7.2999 - mae: 2.0506 - val_loss: 74.7682 - val_mae: 6.6108
+
+60/60 - 10s - loss: 74.7682 - mae: 6.6108
+Test MAE: 6.6108
